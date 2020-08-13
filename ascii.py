@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 import pyfiglet
 
 name=input("Enter A Text: ")
